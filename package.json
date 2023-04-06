@@ -9,6 +9,9 @@
     "start": "node ./index.js",
     "build": "npm build ./index.js"
   },
+  "engines" : { 
+    "node" : ">= 0.6"
+  },
   "author": "Lucas Finatti", 
   "license": "ISC",
   "dependencies": {
